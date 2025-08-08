@@ -37,23 +37,9 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeban25&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-### 📅 GitHub Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jeeban25&theme=tokyonight" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeeban25&show_icons=true&theme=tokyonight&hide_border=false&locale=en" alt="Jeeban's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeeban25&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&locale=en" alt="Jeeban's GitHub Stats" />
 </p>
 
 ---
