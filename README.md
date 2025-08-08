@@ -44,9 +44,9 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 📅 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=jeeban25&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=jeeban25&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 ---
