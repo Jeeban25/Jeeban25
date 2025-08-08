@@ -1,26 +1,170 @@
-<h1 align="center">Hi 👋, I'm Jeeban Bohara.</h1>
-<h3 align="center">A passionate Computer Engineering Student From FWU SOE.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jeeban Bohara | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      background: #0f1117;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeban25&label=Profile%20views&color=0e75b6&style=flat" alt="jeeban25" /> </p>
+    h1, h2, h3 {
+      margin: 0;
+      padding: 0;
+    }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeban25" alt="jeeban25" /></a> </p>
+    .intro {
+      text-align: center;
+      margin-bottom: 60px;
+    }
 
-<p align="left"> <a href="https://twitter.com/jeebanbohara" target="blank"><img src="https://img.shields.io/twitter/follow/jeebanbohara?logo=twitter&style=for-the-badge" alt="jeebanbohara" /></a> </p>
+    .intro h1 {
+      font-size: 3rem;
+      color: #00ffe7;
+      text-shadow: 0 0 8px #00ffe7;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jeebanbohara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeebanbohara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeeban-bohara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeeban-bohara/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jeeban.bohara.924428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jeeban.bohara.924428" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jeeban_25?igsh=bhg0bmn1egm4ahrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeeban_25?igsh=bhg0bmn1egm4ahrp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@jeebanboharaofficial6877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jeebanboharaofficial6877" height="30" width="40" /></a>
-</p>
+    .intro h2 {
+      font-size: 1.6rem;
+      color: #00f7ff;
+      margin-top: 10px;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+    .animated-text {
+      margin-top: 15px;
+      font-size: 1.3rem;
+      color: #3399ff;
+      height: 30px;
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 2px solid #3399ff;
+      width: fit-content;
+      margin-left: auto;
+      margin-right: auto;
+      animation: typing 3s steps(40, end) infinite, blink 0.75s step-end infinite;
+    }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeban25&show_icons=true&locale=en&layout=compact" alt="jeeban25" /></p>
+    @keyframes typing {
+      0%, 100% { width: 0 }
+      20%, 80% { width: 100% }
+    }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeban25&show_icons=true&locale=en" alt="jeeban25" /></p>
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #3399ff }
+    }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeban25&" alt="jeeban25" /></p>
+    .section {
+      margin-bottom: 50px;
+    }
+
+    .section-title {
+      font-size: 1.4rem;
+      margin-bottom: 10px;
+    }
+
+    .divider {
+      height: 2px;
+      background: linear-gradient(to right, #444, #888, #444);
+      margin: 15px 0 25px;
+      border-radius: 5px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 20px;
+    }
+
+    .item {
+      background-color: #1c1e26;
+      border-radius: 10px;
+      padding: 15px 10px;
+      text-align: center;
+      transition: transform 0.2s ease, background 0.3s ease;
+    }
+
+    .item:hover {
+      transform: scale(1.05);
+      background-color: #2a2d3a;
+    }
+
+    .item img {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 8px;
+    }
+
+    .item span {
+      font-size: 0.9rem;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="intro">
+    <h1>👋 Hi, I'm Jeeban Bohara</h1>
+    <h2>💻 Computer Engineering Student — FWU SOE</h2>
+    <div class="animated-text" id="type-text">Crafting clean & efficient code is my passion.</div>
+  </div>
+
+  <!-- Languages & Frameworks -->
+  <div class="section">
+    <div class="section-title">🛠️ Languages & Frameworks</div>
+    <div class="divider"></div>
+    <div class="grid">
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><span>JavaScript</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><span>TypeScript</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><span>Python</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><span>C</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><span>C++</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><span>React</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"><span>Vue</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><span>Node.js</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"><span>Express</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"><span>Laravel</span></div>
+    </div>
+  </div>
+
+  <!-- Databases & Cloud -->
+  <div class="section">
+    <div class="section-title">☁️ Databases & Cloud</div>
+    <div class="divider"></div>
+    <div class="grid">
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><span>MongoDB</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><span>MySQL</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"><span>Redis</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"><span>AWS</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><span>Docker</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"><span>Nginx</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"><span>Vercel</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"><span>Firebase</span></div>
+      <div class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"><span>Heroku</span></div>
+    </div>
+  </div>
+
+  <script>
+    const texts = [
+      "Crafting clean & efficient code is my passion.",
+      "Designing user-centric experiences excites me.",
+      "I enjoy storytelling through creative editing.",
+      "Cricket fuels my competitive spirit & teamwork."
+    ];
+
+    let count = 0;
+    const textElement = document.getElementById("type-text");
+
+    setInterval(() => {
+      textElement.textContent = texts[count % texts.length];
+      count++;
+    }, 4000);
+  </script>
+
+</body>
+</html>
