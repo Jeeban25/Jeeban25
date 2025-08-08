@@ -46,7 +46,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeban25&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=jeeban25&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
