@@ -5,6 +5,9 @@
   </marquee>
 </h2>
 
+
+
+
 <!-- Profile Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeeban25&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
@@ -12,12 +15,19 @@
   <img src="https://img.shields.io/github/stars/jeeban25?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
 </p>
 
+
+
+
+
 ---
 
 <h1 align="center">Hi there! 👋 I'm Jeeban Bohara</h1>
 <h3 align="center">🚀 Passionate Computer Engineering Student | FWU School of Engineering</h3>
 
 ---
+
+
+
 
 ### 🛠️ Languages & Tools
 
@@ -36,12 +46,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
+
+
+
 ---
 
 ### 📊 GitHub Analytics & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeeban25&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&locale=en" alt="Jeeban's GitHub Stats" />
 </p>
+
+
+
+
 
 ---
 
@@ -53,6 +70,10 @@
 </p>
 
 ---
+
+
+
+
 
 ### 🌐 Connect With Me
 <p align="left">
