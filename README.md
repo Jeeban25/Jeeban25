@@ -1,7 +1,8 @@
 <!-- Scrolling Welcome Banner -->
 <h2 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8" style="color:#00BFFF; font-weight:bold; font-size: 18px;">
-    💙 Welcome to my GitHub! I'm Jeeban Bohara — Computer Engineering Student | Coder | Designer | Developer | Cricket Lover 🏏
+    💙 Welcome to my GitHub! 
+    I'm Jeeban Bohara — Computer Engineering Student | Coder | Designer | Developer | Cricket Lover 🏏
   </marquee>
 </h2>
 
